@@ -1,5 +1,21 @@
 body {
   color: deeppink;
-  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-color: blanchedalmond;
+  text-align: center;
+  border-color: black;
+  border-width: 2px;
+}
+
+.titulo {
+  padding: 10 auto;
+  color: antiquewhite;
+}
+
+.contenido {
+  background-color: azure;
+  color: chocolate;
 }
